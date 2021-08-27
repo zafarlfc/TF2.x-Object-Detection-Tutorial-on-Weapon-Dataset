@@ -1,1 +1,0 @@
-# TF2.x-Object-Detection-Tutorial-on-Weapon-Dataset
